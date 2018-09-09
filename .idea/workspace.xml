@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b13c117-ec95-482e-b838-1a74cf0591fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/NeuralNetwork.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/Neuron.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/NeuronLayer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/back_propagation_cal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/test_simple_neuralNetwork.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduce_to_deep_learning/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/simple_neural_network.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduce_to_deep_learning/02_CNN/recognize_minist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Deep.iml" afterPath="$PROJECT_DIR$/.idea/Deep.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,33 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_simple_neuralNetwork.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/test_simple_neuralNetwork.py">
+      <file leaf-file-name="recognize_minist.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/02_CNN/recognize_minist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NeuralNetwork.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/NeuralNetwork.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NeuronLayer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/NeuronLayer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="139">
+              <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -108,11 +80,12 @@
         <option value="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/Neuron.py" />
         <option value="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/NeuralNetwork.py" />
         <option value="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/test_simple_neuralNetwork.py" />
+        <option value="$PROJECT_DIR$/Introduce_to_deep_learning/02_CNN/recognize_minist.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+    <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -153,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,12 +143,14 @@
               <item name="Deep" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep" type="462c0819:PsiDirectoryNode" />
               <item name="Introduce_to_deep_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="01_back_propagation" type="462c0819:PsiDirectoryNode" />
+              <item name="02_CNN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Deep" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduce_to_deep_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="02_CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="MNIST_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Deep" type="b2602c69:ProjectViewProjectNode" />
@@ -184,7 +160,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,24 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_simple_neuralNetwork">
-    <configuration name="Neural" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Deep" />
-      <option name="SCRIPT_NAME" value="D:\Deep\Introduce_to_deep_learning\01_back_propagation\Neuron.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.recognize_minist">
     <configuration name="NeuralNetwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,6 +237,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Deep" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/NeuronLayer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="recognize_minist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduce_to_deep_learning/02_CNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Deep" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduce_to_deep_learning/02_CNN/recognize_minist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,19 +312,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.tes_tensor" />
       <item index="1" class="java.lang.String" itemvalue="Python.test8" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Neural" />
-      <item index="3" class="java.lang.String" itemvalue="Python.NeuronLayer" />
-      <item index="4" class="java.lang.String" itemvalue="Python.NeuralNetwork" />
-      <item index="5" class="java.lang.String" itemvalue="Python.test_simple_neuralNetwork" />
-      <item index="6" class="java.lang.String" itemvalue="Python.Neuron" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NeuronLayer" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NeuralNetwork" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_simple_neuralNetwork" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Neuron" />
+      <item index="6" class="java.lang.String" itemvalue="Python.recognize_minist" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_simple_neuralNetwork" />
-        <item index="1" class="java.lang.String" itemvalue="Python.NeuralNetwork" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Neuron" />
-        <item index="3" class="java.lang.String" itemvalue="Python.NeuronLayer" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Neural" />
+        <item index="0" class="java.lang.String" itemvalue="Python.recognize_minist" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_simple_neuralNetwork" />
+        <item index="2" class="java.lang.String" itemvalue="Python.NeuralNetwork" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Neuron" />
+        <item index="4" class="java.lang.String" itemvalue="Python.NeuronLayer" />
       </list>
     </recent_temporary>
   </component>
@@ -362,10 +337,9 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29198185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29623824" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31467474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29623568" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29787233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39811912" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -375,6 +349,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -426,13 +401,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice/mnist_softmax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_mnist_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -761,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="144" column="24" lean-forward="false" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
-          <folding>
-            <element signature="e#14#27#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,37 +739,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/test_simple_neuralNetwork.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/Neuron.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/NeuronLayer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="437">
           <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/NeuralNetwork.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state relative-caret-position="336">
+          <caret line="99" column="65" lean-forward="true" selection-start-line="99" selection-start-column="65" selection-end-line="99" selection-end-column="65" />
           <folding>
             <element signature="e#15#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/01_back_propagation/test_simple_neuralNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduce_to_deep_learning/02_CNN/recognize_minist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
